@@ -48,7 +48,7 @@ fun Content(){
         verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
-        Counter(0)
+        Counter(100)
     }
 }
 
